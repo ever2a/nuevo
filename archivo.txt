@@ -2,3 +2,5 @@ Temas de ejemplo.
 Primer ejemplo de programa git.
 
 Cambio después de comprometer (Commit).
+
+Nuevo cambio.
